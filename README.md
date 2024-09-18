@@ -32,16 +32,10 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/m/vi6G6cP_IlMAAAAd/camboysminaj.gif"  />
+<img align="right" width="40%" src="https://media1.tenor.com/m/vi6G6cP_IlMAAAAd/camboysminaj.gif"  />
 
 ###
 
-<img align="left" src="https://raw.githubusercontent.com/adnan-961/adnan-961/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=adnan-961&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<img width="40%" align="left" src="https://raw.githubusercontent.com/adnan-961/adnan-961/output/snake.svg" alt="Snake animation" />
 
 ###
