@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adnan-961/adnan-961/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://raw.githubusercontent.com/adnan-961/adnan-961/output/snake.svg" alt="Snake animation" />
 
 ###
 
