@@ -32,7 +32,7 @@
 
 ###
 
-<img align="right" height="400" src="https://media1.tenor.com/m/vi6G6cP_IlMAAAAd/camboysminaj.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/vi6G6cP_IlMAAAAd/camboysminaj.gif"  />
 
 ###
 
