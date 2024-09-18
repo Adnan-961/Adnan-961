@@ -32,10 +32,10 @@
 
 ###
 
-<img align="right" width="40%" src="https://media1.tenor.com/m/vi6G6cP_IlMAAAAd/camboysminaj.gif"  />
+<img align="right" width="48%" src="https://media1.tenor.com/m/vi6G6cP_IlMAAAAd/camboysminaj.gif"  />
 
 ###
 
-<img width="40%" align="left" src="https://raw.githubusercontent.com/adnan-961/adnan-961/output/snake.svg" alt="Snake animation" />
+<img width="48%" align="left" src="https://raw.githubusercontent.com/adnan-961/adnan-961/output/snake.svg" alt="Snake animation" />
 
 ###
