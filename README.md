@@ -1,4 +1,4 @@
-<h2 align="center">Welcome, Warrior! Prepare to Smash Bugs and Lift Repositories!</h2>
+<h2 align="center">From bugs to features.</h2>
 
 ###
 
