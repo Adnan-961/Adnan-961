@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://u8views.com/github/Adnan-961"><img src="https://u8views.com/api/v1/github/profiles/81489386/views/day-week-month-total-count.svg"></a>
-</div>
+</div> -->
 
 ###
 
