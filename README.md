@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/adnan-961/count.svg" />
+  <a href="https://u8views.com/github/Adnan-961"><img src="https://u8views.com/api/v1/github/profiles/81489386/views/day-week-month-total-count.svg"></a>
 </div>
 
 ###
