@@ -1,13 +1,5 @@
 <h2 align="center">From bugs to features.</h2>
 
-###
-
-<!-- <div align="center">
-  <a href="https://u8views.com/github/Adnan-961"><img src="https://u8views.com/api/v1/github/profiles/81489386/views/day-week-month-total-count.svg"></a>
-</div> -->
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height: 40px;" alt="nextjs logo" />
   <img width="12" />
