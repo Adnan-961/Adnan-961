@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/adnan-961/count.svg?" />
+  <img src="https://profile-counter.glitch.me/adnan-961/count.svg" />
 </div>
 
 ###
