@@ -1,5 +1,4 @@
 <h2 align="center">From bugs to features.</h2>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height: 40px;" alt="nextjs logo" />
   <img width="12" />
